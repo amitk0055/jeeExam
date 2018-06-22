@@ -1,0 +1,35 @@
+.header-contant{
+    background-color: #666666;
+    padding: 10px;
+    
+}
+.header-contant p{
+    color: white;
+    margin-bottom: 0px !important;
+}
+
+.login-box{
+    max-width: 400px;
+    height: 270px;
+    box-shadow: 0px 0px 10px 0px rgb(15, 15, 15,0.4);
+    margin: auto;
+    background-color: rgb(241, 241, 241);
+    border-radius: 10px;
+}
+.box-header{
+    height: 40px;
+    background-color: rgb(214, 214, 214);
+    padding: 5px 15px;
+    margin-bottom: 30px;
+    overflow: hidden;
+
+}
+.img-profile{
+    width: 80px;
+    height: 80px;
+    overflow: hidden;
+    border-radius: 40px;
+}
+.img-profile img{
+   width: 100%;
+}

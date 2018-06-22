@@ -1,0 +1,31 @@
+.img-profile{
+    width: 80px;
+    height: 80px;
+    overflow: hidden;
+    border-radius: 40px;
+    
+}
+.img-profile img{
+   width: 100%;
+}
+.user-profile{
+    border-bottom: rgb(139, 139, 139) solid 1px;
+    height: 17vh;
+}
+@media only screen and (max-width: 900px) {
+    .user-profile{
+        height: 12vh;
+    }
+}
+@media only screen and (max-width: 900px) 
+{
+    .user-profile h4{
+        font-size: 18px !important;
+    }
+    .img-profile{
+        width: 60px;
+        height: 60px;
+ 
+    border-radius: 30px; 
+    }
+}
