@@ -9,7 +9,7 @@
    width: 100%;
 }
 .user-profile{
-    border-bottom: rgb(139, 139, 139) solid 1px;
+    border-bottom: rgb(139, 139, 139,0.3) solid 1px;
     height: 17vh;
 }
 @media only screen and (max-width: 900px) {

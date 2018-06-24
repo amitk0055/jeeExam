@@ -3,9 +3,3 @@ header{
     padding: 5px;
     background-color: #2D70B6;
 }
-@media only screen and(max-width:600px)
-{
-.cw{
-    font-size: 22px;
-}
-}
